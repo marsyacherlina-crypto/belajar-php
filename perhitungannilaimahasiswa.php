@@ -352,7 +352,7 @@ $daftar_nilai = [
             max="100"
             value="<?= $sudah_dihitung ? $nilai_kehadiran : '' ?>"
             required
-
+        >
         <label>Nilai Tugas</label>
         <input
             type="number"
